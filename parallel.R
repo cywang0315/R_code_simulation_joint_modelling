@@ -1,4 +1,4 @@
-### Based on simulation 16 root.square
+
 ### Written in parallel way 
 #### Combine with source function 17
 
